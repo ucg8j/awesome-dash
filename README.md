@@ -10,12 +10,15 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ## Content ##
 - [Tutorials](#tutorials)
+- [Community](#community)
 - [Course](#course)
 - [Galleries](#galleries)
 - [App Examples](#app-examples)
 - [Contributors](#contributors)
 
 ## Tutorials ##
+## Community ##
+- [Plotly hosted Question and Answer community](https://community.plot.ly)
 ## Course ##
 ## Galleries ##
 ## App Examples ##
