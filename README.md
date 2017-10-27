@@ -9,3 +9,14 @@ A curated list of awesome dash (plotly) resources
 Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python. It's particuarly suited for anyone who works with data in Python.
 
 ## Content ##
+- [Tutorials](#tutorials)
+- [Course](#course)
+- [Galleries](#galleries)
+- [App Examples](#app-examples)
+- [Contributors](#contributors)
+
+## Tutorials ##
+## Course ##
+## Galleries ##
+## App Examples ##
+## Contributors ##
