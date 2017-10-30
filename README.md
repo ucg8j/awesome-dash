@@ -18,6 +18,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ## Tutorials ##
 - [How the MVC model pertains to Dash and a walkthrough of building an app](https://alysivji.github.io/reactive-dashboards-with-dash.html)
+- [How to use Jupyter notebooks in tandom with Dash to create mapping viz](https://radumas.info/blog/tutorial/2017/08/10/codeday.html)
 
 ## Community ##
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
