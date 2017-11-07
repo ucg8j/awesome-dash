@@ -35,6 +35,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ## App Examples ##
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
-- [Goldman Sachs Remake: Portfolio Report](https://plot.ly/dash/gallery/goldman-sachs-report/) - recreates the look and feel of a Goldman Sachs report. Includes a 'print to PDF' button. [Source Code.](https://github.com/plotly/dash-goldman-sachs-report-demo)
+- [Goldman Sachs Remake: Portfolio Report](https://plot.ly/dash/gallery/goldman-sachs-report/) - Recreates the look and feel of a Goldman Sachs report. Includes a 'print to PDF' button. [Source Code.](https://github.com/plotly/dash-goldman-sachs-report-demo)
+- [Uber Rides](https://plot.ly/dash/gallery/uber-rides/) - Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. [Source Code.](https://github.com/plotly/dash-uber-rides-demo)
 
 ## Contributors ##
