@@ -44,3 +44,5 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code.](https://github.com/plotly/dash-yield-curve)
 
 ## Contributors ##
+- [Luke Singham](http://lukesingham.com/)
+- [Aly Sivji](https://alysivji.github.io/)
