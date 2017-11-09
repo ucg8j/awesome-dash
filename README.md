@@ -30,7 +30,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ## Galleries ##
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of dash applications
-- [Dash Recipes Github](https://github.com/plotly/dash-recipes)
+- [Dash Recipes Github](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community
 
 ## App Examples ##
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
