@@ -12,7 +12,6 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [Tutorials](#tutorials)
 - [Community](#community)
 - [Talks](#talks)
-- [Course](#course)
 - [Galleries](#galleries)
 - [App Examples](#app-examples)
 - [Contributors](#contributors)
