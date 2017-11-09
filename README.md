@@ -12,7 +12,6 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [Tutorials](#tutorials)
 - [Community](#community)
 - [Talks](#talks)
-- [Course](#course)
 - [Galleries](#galleries)
 - [App Examples](#app-examples)
 - [Contributors](#contributors)
@@ -30,7 +29,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ## Galleries ##
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of dash applications
-- [Dash Recipes Github](https://github.com/plotly/dash-recipes)
+- [Dash Recipes Github](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community
 
 ## App Examples ##
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
@@ -44,3 +43,5 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code.](https://github.com/plotly/dash-yield-curve)
 
 ## Contributors ##
+- [Luke Singham](http://lukesingham.com/)
+- [Aly Sivji](https://alysivji.github.io/)
