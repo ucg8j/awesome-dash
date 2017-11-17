@@ -20,6 +20,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [How the MVC model pertains to Dash and a walkthrough of building an app](https://alysivji.github.io/reactive-dashboards-with-dash.html)
 - [How to use Jupyter notebooks in tandom with Dash to create mapping viz](https://radumas.info/blog/tutorial/2017/08/10/codeday.html)
 - [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html)
+- [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/datascience/2017/08/08/finding-bigfoot-with-dash-part-1.html) - Walkthrough of building a dashboard of Bigfoot sightings. [Part 2](https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html), [Part 3](https://timothyrenner.github.io/datascience/2017/08/10/finding-bigfoot-with-dash-part-3.html)
 
 ## Community ##
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
