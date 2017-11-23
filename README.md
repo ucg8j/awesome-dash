@@ -5,7 +5,7 @@
 
 A curated list of awesome Dash (plotly) resources
 
->Dash is a productive Python framework for building web applications.
+>[Dash](https://plot.ly/products/dash/) is a productive Python framework for building web applications.
 Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python. It's particuarly suited for anyone who works with data in Python.
 
 ## Contents ##
@@ -17,10 +17,16 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [Contributors](#contributors)
 
 ## Tutorials ##
+- Plotly's tutorials on how to use Dash:
+  - [Part 1: App Layout](https://plot.ly/dash/getting-started)
+  - [Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
+  - [Part 3: Interactive Graphing](https://plot.ly/dash/interactive-graphing)
+  - [Part 4: Callbacks With State](https://plot.ly/dash/state)
 - [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - How the MVC model pertains to Dash and a walkthrough of building an app.
 - [OPS CodeDay: Dash Plotly Map + Graph](https://radumas.info/blog/tutorial/2017/08/10/codeday.html) - How to use Jupyter notebooks in tandom with Dash to create mapping viz.
 - [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html) - High level overview of how to get started with Dash.
 - [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/datascience/2017/08/08/finding-bigfoot-with-dash-part-1.html) - Walkthrough of building a dashboard of Bigfoot sightings. [Part 2](https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html), [Part 3](https://timothyrenner.github.io/datascience/2017/08/10/finding-bigfoot-with-dash-part-3.html).
+- [Visualize Earthquakes with Plotly Dash](https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/) - Environmental scan of alternatives to Dash followed with a tutorial.
 
 ## Community ##
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
@@ -44,7 +50,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [Recession in 255 Charts](https://plot.ly/dash/gallery/recession-report/) - Adapted from NYTimes's excellent [How the Recession Reshaped the Economy in 255 Charts](https://www.nytimes.com/interactive/2014/06/05/upshot/how-the-recession-reshaped-the-economy-in-255-charts.html). [Source Code.](https://github.com/plotly/dash-recession-report-demo)
 - [3D Yield Curve](https://plot.ly/dash/gallery/yield-curve/) - Adapted from NYTimes's excellent [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](https://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html). [Source Code.](https://github.com/plotly/dash-yield-curve)
 - [Finding Bigfoot](https://bigfoot-sightings-dash.herokuapp.com/) - Several plots (including a map), a grid layout built with Bootstrap, interactions with an input field, and caching (See also [Tutorials](#tutorials)). [Source Code.](https://github.com/timothyrenner/bigfoot-dash-app)
-- [Visualize Earthquakes with Plotly Dash](https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/) - Environmental scan of alternatives to Dash followed with a tutorial. [Source Code.](https://github.com/jackdbd/dash-earthquakes)
+- [Visualize Earthquakes with Plotly Dash](https://belle-croissant-54211.herokuapp.com/) - Great UI and usage of geospatial analytics with Dash. [Source Code.](https://github.com/jackdbd/dash-earthquakes)
 
 ## Contributors ##
 - [Luke Singham](http://lukesingham.com/)
