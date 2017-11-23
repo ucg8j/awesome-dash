@@ -3,7 +3,7 @@
 [<img src="https://cdn.rawgit.com/plotly/dash-docs/b1178b4e/images/dash-logo-stripe.svg" align="right" width="250">](https://plot.ly/products/dash/)
 
 
-A curated list of awesome dash (plotly) resources
+A curated list of awesome Dash (plotly) resources
 
 >Dash is a productive Python framework for building web applications.
 Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python. It's particuarly suited for anyone who works with data in Python.
@@ -29,7 +29,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Chris Parmer, creator of Dash (SciPy 2017)
 
 ## Galleries ##
-- [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of dash applications
+- [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications
 - [Dash Recipes Github](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community
 
 ## App Examples ##
