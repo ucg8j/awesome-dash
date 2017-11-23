@@ -17,6 +17,11 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [Contributors](#contributors)
 
 ## Tutorials ##
+- Plotly's tutorials on how to use Dash:
+  - [Part 1: App Layout](https://plot.ly/dash/getting-started)
+  - [Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
+  - [Part 3: Interactive Graphing](https://plot.ly/dash/interactive-graphing)
+  - [Part 4: Callbacks With State](https://plot.ly/dash/state)
 - [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - How the MVC model pertains to Dash and a walkthrough of building an app.
 - [OPS CodeDay: Dash Plotly Map + Graph](https://radumas.info/blog/tutorial/2017/08/10/codeday.html) - How to use Jupyter notebooks in tandom with Dash to create mapping viz.
 - [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html) - High level overview of how to get started with Dash.
