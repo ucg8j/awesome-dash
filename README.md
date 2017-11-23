@@ -24,6 +24,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 
 ## Community ##
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/plotly-dash)
 
 ## Talks ##
 - [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Chris Parmer, creator of Dash (SciPy 2017).
