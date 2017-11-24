@@ -17,6 +17,7 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [Contributors](#contributors)
 
 ## Tutorials ##
+- [Introducing Plotly Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503) - A high level introduction to Dash by Chris Parmer, the author of Dash. This essay was released as part of Dash's official launch (June 21, 2017).
 - Plotly's tutorials on how to use Dash:
   - [Part 1: App Layout](https://plot.ly/dash/getting-started)
   - [Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
