@@ -30,9 +30,8 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [Creating Interactive Visualizations with Plotly’s Dash Framework](http://pbpython.com/plotly-dash-intro.html) - High level overview of how to get started with Dash.
 - [Finding Bigfoot with Dash, Part 1](https://timothyrenner.github.io/datascience/2017/08/08/finding-bigfoot-with-dash-part-1.html) - Walkthrough of building a dashboard of Bigfoot sightings. [Part 2](https://timothyrenner.github.io/datascience/2017/08/09/finding-bigfoot-with-dash-part-2.html), [Part 3](https://timothyrenner.github.io/datascience/2017/08/10/finding-bigfoot-with-dash-part-3.html).
 - [Visualize Earthquakes with Plotly Dash](https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/) - Environmental scan of alternatives to Dash followed with a tutorial.
-
-## Videos ##
-- [ARGO Labs - Plotly Dash Tutorial](https://www.youtube.com/watch?v=yfWJXkySfe0)
+- [ARGO Labs - Plotly Dash Tutorial](https://www.youtube.com/watch?v=yfWJXkySfe0) [Video] - Detailed introduction to creating interactive dashboards
+- [Data Visualization GUIs with Dash and Python](https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt) [Video playlist] - Five-part series exploring Dash features
 
 ## Community ##
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
