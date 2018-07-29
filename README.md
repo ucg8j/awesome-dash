@@ -65,6 +65,12 @@ Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building dat
 - [Tutorial on creating custom Dash components with React.js](https://plot.ly/dash/plugins)
 - [Dash Core Components](https://github.com/plotly/dash-core-components)
 - [Dash HTML Components](https://github.com/plotly/dash-html-components)
+- [mydcc](https://github.com/jimmybow/mydcc) - Extention of Dash Core Components
+- [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash
+- [sd-range-slider](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component
+- [sd-data-table](https://github.com/StratoDem/sd-data-table) - StratoDem wrapper for React DataTable
+- [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django
+- [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash
 
 ## Contributors ##
 - [Luke Singham](http://lukesingham.com/)
