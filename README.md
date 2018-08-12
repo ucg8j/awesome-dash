@@ -10,11 +10,11 @@ A curated list of awesome Dash (plotly) resources
 
 ## Contents ##
 - [Tutorials](#tutorials)
-- [Community](#community)
-- [Talks](#talks)
-- [Galleries](#galleries)
-- [App Examples](#app-examples)
 - [Component Libraries](#component-libraries)
+- [App Examples](#app-examples)
+- [Galleries](#galleries)
+- [Talks](#talks)
+- [Community](#community)
 - [Contributors](#contributors)
 
 ## Tutorials ##
@@ -32,18 +32,16 @@ A curated list of awesome Dash (plotly) resources
 - [ARGO Labs - Plotly Dash Tutorial (Video)](https://www.youtube.com/watch?v=yfWJXkySfe0) - Detailed introduction to creating interactive dashboards.
 - [Data Visualization GUIs with Dash and Python (Video playlist)](https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt) - Five-part series exploring Dash features.
 
-## Community ##
-- [Plotly hosted Question and Answer community](https://community.plot.ly)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/plotly-dash)
-
-## Talks ##
-- [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Chris Parmer, creator of Dash (SciPy 2017).
-- [We're Launching Dash](https://www.youtube.com/watch?v=5BAthiN0htc&t=1s) - Chris Parmer, creator of Dash, speaking about the motivations behind Dash before it was launched (Plotcon NYC 2016).
-- [Plotly dash and data visualisation in Python, PyData, Berlin 2017](https://www.slideshare.net/vladimirkazantsev/plotly-dash-and-data-visualisation-in-python) - Volodymyr Kazantsev (slides only).
-
-## Galleries ##
-- [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
-- [Dash Recipes Github](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community.
+## Component Libraries ##
+- [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
+- [Dash Core Components](https://github.com/plotly/dash-core-components)
+- [Dash HTML Components](https://github.com/plotly/dash-html-components)
+- [mydcc](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
+- [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
+- [sd-range-slider](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
+- [sd-data-table](https://github.com/StratoDem/sd-data-table) - StratoDem wrapper for React DataTable.
+- [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
+- [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
 
 ## App Examples ##
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
@@ -61,16 +59,18 @@ A curated list of awesome Dash (plotly) resources
 - [VoxelViz](http://lukas-snoek.com/voxelviz) - Competition winning Visualization tool for (f)MRI data-sets. [Source Code.](https://github.com/lukassnoek/VoxelViz)
 - [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code.](https://github.com/richard-muir/uk-car-accidents)
 
-## Component Libraries ##
-- [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
-- [Dash Core Components](https://github.com/plotly/dash-core-components)
-- [Dash HTML Components](https://github.com/plotly/dash-html-components)
-- [mydcc](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
-- [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
-- [sd-range-slider](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
-- [sd-data-table](https://github.com/StratoDem/sd-data-table) - StratoDem wrapper for React DataTable.
-- [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
-- [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
+## Galleries ##
+- [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
+- [Dash Recipes Github](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community.
+
+## Talks ##
+- [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Chris Parmer, creator of Dash (SciPy 2017).
+- [We're Launching Dash](https://www.youtube.com/watch?v=5BAthiN0htc&t=1s) - Chris Parmer, creator of Dash, speaking about the motivations behind Dash before it was launched (Plotcon NYC 2016).
+- [Plotly dash and data visualisation in Python, PyData, Berlin 2017](https://www.slideshare.net/vladimirkazantsev/plotly-dash-and-data-visualisation-in-python) - Volodymyr Kazantsev (slides only).
+
+## Community ##
+- [Plotly hosted Question and Answer community](https://community.plot.ly)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/plotly-dash)
 
 ## Contributors ##
 - [Luke Singham](http://lukesingham.com/)
