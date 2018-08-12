@@ -19,11 +19,10 @@ A curated list of awesome Dash (plotly) resources
 
 ## Tutorials ##
 - [Introducing Plotly Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503) - A high level introduction to Dash by Chris Parmer, the author of Dash. This essay was released as part of Dash's official launch (June 21, 2017).
-- Plotly's tutorials on how to use Dash:
-  - [Part 1: App Layout](https://plot.ly/dash/getting-started)
-  - [Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
-  - [Part 3: Interactive Graphing](https://plot.ly/dash/interactive-graphing)
-  - [Part 4: Callbacks With State](https://plot.ly/dash/state)
+- [Plotly's tutorials - Part 1: App Layout](https://plot.ly/dash/getting-started)
+- [Plotly's tutorials - Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
+- [Plotly's tutorials - Part 3: Interactive Graphing](https://plot.ly/dash/interactive-graphing)
+- [Plotly's tutorials - Part 4: Callbacks With State](https://plot.ly/dash/state)
 - [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - How the MVC model pertains to Dash and a walkthrough of building an app.
 - [Using Plotly’s Dash to deliver public sector decision support dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb) - Buiding a complex dashboard step-by-step.
 - [OPS CodeDay: Dash Plotly Map + Graph](https://radumas.info/blog/tutorial/2017/08/10/codeday.html) - How to use Jupyter notebooks in tandom with Dash to create mapping viz.
