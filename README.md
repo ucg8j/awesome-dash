@@ -8,7 +8,7 @@ A curated list of awesome Dash (plotly) resources
 > [Dash](https://plot.ly/products/dash/) is a productive Python framework for building web applications.
 > Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python. It's particularly suited for anyone who works with data in Python.
 
-## Contents ##
+## Contents
 - [Tutorials](#tutorials)
 - [Component Libraries](#component-libraries)
 - [App Examples](#app-examples)
@@ -17,7 +17,7 @@ A curated list of awesome Dash (plotly) resources
 - [Community](#community)
 - [Contributors](#contributors)
 
-## Tutorials ##
+## Tutorials
 - [Introducing Plotly Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503) - A high level introduction to Dash by Chris Parmer, the author of Dash. This essay was released as part of Dash's official launch (June 21, 2017).
 - [Plotly's tutorials - Part 1: App Layout](https://plot.ly/dash/getting-started)
 - [Plotly's tutorials - Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
@@ -32,7 +32,7 @@ A curated list of awesome Dash (plotly) resources
 - [ARGO Labs - Plotly Dash Tutorial (Video)](https://www.youtube.com/watch?v=yfWJXkySfe0) - Detailed introduction to creating interactive dashboards.
 - [Data Visualization GUIs with Dash and Python (Video playlist)](https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt) - Five-part series exploring Dash features.
 
-## Component Libraries ##
+## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
 - [Dash Core Components](https://github.com/plotly/dash-core-components)
 - [Dash HTML Components](https://github.com/plotly/dash-html-components)
@@ -43,7 +43,7 @@ A curated list of awesome Dash (plotly) resources
 - [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
 - [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
 
-## App Examples ##
+## App Examples
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
 - [Goldman Sachs Remake: Portfolio Report](https://plot.ly/dash/gallery/goldman-sachs-report/) - Recreates the look and feel of a Goldman Sachs report. Includes a 'print to PDF' button. [Source Code.](https://github.com/plotly/dash-goldman-sachs-report-demo)
 - [Uber Rides](https://plot.ly/dash/gallery/uber-rides/) - Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. [Source Code.](https://github.com/plotly/dash-uber-rides-demo)
@@ -59,24 +59,24 @@ A curated list of awesome Dash (plotly) resources
 - [VoxelViz](http://lukas-snoek.com/voxelviz) - Competition winning Visualization tool for (f)MRI data-sets. [Source Code.](https://github.com/lukassnoek/VoxelViz)
 - [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code.](https://github.com/richard-muir/uk-car-accidents)
 
-## Galleries ##
+## Galleries
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
 - [Dash Recipes Github](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community.
 
-## Talks ##
+## Talks
 - [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Chris Parmer, creator of Dash (SciPy 2017).
 - [We're Launching Dash](https://www.youtube.com/watch?v=5BAthiN0htc&t=1s) - Chris Parmer, creator of Dash, speaking about the motivations behind Dash before it was launched (Plotcon NYC 2016).
 - [Plotly dash and data visualisation in Python, PyData, Berlin 2017](https://www.slideshare.net/vladimirkazantsev/plotly-dash-and-data-visualisation-in-python) - Volodymyr Kazantsev (slides only).
 
-## Community ##
+## Community
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/plotly-dash)
 
-## Contributors ##
+## Contributors
 - [Luke Singham](http://lukesingham.com/)
 - [Aly Sivji](https://alysivji.github.io/)
 - [Chris Parmer](https://github.com/chriddyp)
 - [Sergey Pikhovkin](https://github.com/pikhovkin)
 
-## License ##
+## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
