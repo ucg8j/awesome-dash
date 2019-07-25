@@ -34,6 +34,8 @@ A curated list of awesome Dash (plotly) resources
 
 ## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
+- [Awesome React Components](https://github.com/brillout/awesome-react-components) - Catalog of React.js components potentially interesting to be wrapped into Dash components.
+- [Awesome React](https://github.com/enaqx/awesome-react) - Helpful resources for developing React.js components.
 - [Dash Core Components](https://github.com/plotly/dash-core-components)
 - [Dash HTML Components](https://github.com/plotly/dash-html-components)
 - [mydcc](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
