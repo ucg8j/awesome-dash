@@ -12,6 +12,7 @@ A curated list of awesome Dash (plotly) resources
 - [Tutorials](#tutorials)
 - [Component Libraries](#component-libraries)
 - [App Examples](#app-examples)
+- [Idiomatic examples](#idiomatic-examples)
 - [Galleries](#galleries)
 - [Talks](#talks)
 - [Community](#community)
@@ -62,6 +63,10 @@ A curated list of awesome Dash (plotly) resources
 - [Street Quality IDentification [SQUID]](https://squid-syracuse.herokuapp.com/) - Highlights poor quality roads with maps, data table and photos of the offending piece of road. [Source Code.](https://github.com/amyoshino/SQUID-Syracuse-Dashboard)
 - [VoxelViz](http://lukas-snoek.com/voxelviz) - Competition winning Visualization tool for (f)MRI data-sets. [Source Code.](https://github.com/lukassnoek/VoxelViz)
 - [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code.](https://github.com/richard-muir/uk-car-accidents)
+
+## Idiomatic examples
+
+- [Dash recipes](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
 
 ## Galleries
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
