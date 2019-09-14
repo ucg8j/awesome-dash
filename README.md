@@ -14,6 +14,7 @@ A curated list of awesome Dash (plotly) resources
 - [App Examples](#app-examples)
 - [Idiomatic examples](#idiomatic-examples)
 - [Galleries](#galleries)
+- [Cheat sheets](#cheat-sheets)
 - [Talks](#talks)
 - [Community](#community)
 - [Contributors](#contributors)
@@ -84,6 +85,10 @@ A curated list of awesome Dash (plotly) resources
 - [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Chris Parmer, creator of Dash (SciPy 2017).
 - [We're Launching Dash](https://www.youtube.com/watch?v=5BAthiN0htc&t=1s) - Chris Parmer, creator of Dash, speaking about the motivations behind Dash before it was launched (Plotcon NYC 2016).
 - [Plotly dash and data visualisation in Python, PyData, Berlin 2017](https://www.slideshare.net/vladimirkazantsev/plotly-dash-and-data-visualisation-in-python) - Volodymyr Kazantsev (slides only).
+
+## Cheat sheets
+
+- [plotly.py Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
 
 ## Community
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
