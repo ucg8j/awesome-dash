@@ -73,7 +73,6 @@ A curated list of awesome Dash (plotly) resources
 - [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - Explore the 140,008 traffic accidents in the UK in 2015. [Source Code.](https://github.com/richard-muir/uk-car-accidents)
 
 ## Idiomatic examples
-
 - [Dash recipes](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
 
 ## Galleries
@@ -87,7 +86,6 @@ A curated list of awesome Dash (plotly) resources
 - [Plotly dash and data visualisation in Python, PyData, Berlin 2017](https://www.slideshare.net/vladimirkazantsev/plotly-dash-and-data-visualisation-in-python) - Volodymyr Kazantsev (slides only).
 
 ## Cheat sheets
-
 - [plotly.py Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
 
 ## Community
@@ -100,6 +98,7 @@ A curated list of awesome Dash (plotly) resources
 - [Chris Parmer](https://github.com/chriddyp)
 - [Sergey Pikhovkin](https://github.com/pikhovkin)
 - [Pascal Bugnion](https://pascalbugnion.net)
+- [Florian Kromer](https://github.com/fkromer)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
