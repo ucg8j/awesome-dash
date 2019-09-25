@@ -1,0 +1,33 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""Script to get owners and websites of GitHub projects tagged with topics
+plotly and dash.
+
+The script has the side effect of depending on environment variables GIT_USER
+and GIT_PASSWORD which have to be set to the Github user name and the GitHub
+password respectively.
+
+The script has been tested with PyGithub v1.43.8 running under Python 3.6.8.
+"""
+
+from os import getenv
+
+from github import Github
+from github.GithubException import RateLimitExceededException
+
+USER = getenv("GIT_USER")
+PASSWORD = getenv("GIT_PASSWORD")
+
+client = Github(USER, PASSWORD)  # pylint: disable=C0103
+try:
+    repos = client.search_repositories(query="topic:plotly topic:dash")  # pylint: disable=C0103
+    for r in repos:
+        name = r.name
+        owner = r.owner.login
+        url = r.owner.blog
+        print(f"Repo: {name}")
+        print(f"   Owner: {owner}")
+        print(f"   URL:   {url}")
+except RateLimitExceededException:
+    print("You've triggered your GitHub API rate limit. Try again later.")
