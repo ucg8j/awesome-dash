@@ -35,6 +35,9 @@ A curated list of awesome Dash (plotly) resources
 - [Data Visualization GUIs with Dash and Python (Video playlist)](https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt) - Five-part series exploring Dash features.
 - [Interactive Visualization of Machine Learning and Computer Vision with Dash](https://www.youtube.com/watch?v=3F5AR-uUqJc) - Official introduction video.
 - [Webinar: Converting React components to Dash components](https://www.youtube.com/watch?v=wifoPPRgG_I) - Official tutorial about how to convert React components to Dash components using the Dash Component Boilerplate cookiecutter template.
+- [Interactive Image Processing with Dash-Canvas](https://www.youtube.com/watch?v=LKXSFBB5ccI) - Official introduction video to the Dash Canvas components.
+- [Dash Cytoscape Component](https://www.youtube.com/watch?v=snXcIsCMQgk) - Official introduction video to the Dash Cytoscape components.
+- [An introduction to Dash DataTable](https://www.youtube.com/watch?v=dueejcyrYh8) - Official introduction video to the Dash DataTable components.
 
 ## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
