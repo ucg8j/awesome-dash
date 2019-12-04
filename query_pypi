@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+"""
+Prints all PyPi projects which make use of the
+PyPi trove classifier avilable for the framework.
+The script has been tested running under Python 3.6.8.
+"""
+
+
+import xmlrpc.client as xmlrpclib
+
+client = xmlrpclib.ServerProxy('https://pypi.python.org/pypi')
+
+trove_classifiers = ["Framework :: Dash"]
+pypi_projects = []
+for tc in trove_classifiers:
+    tc_pypi_projects = [p[0] for p in client.browse([tc])]
+    pypi_projects += tc_pypi_projects
+
+for p in set(pypi_projects):
+    print(p)
+~                  
