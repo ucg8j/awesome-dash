@@ -105,6 +105,7 @@ A curated list of awesome Dash (plotly) resources
 - [Pascal Bugnion](https://pascalbugnion.net)
 - [Florian Kromer](https://github.com/fkromer)
 - [Elias Dabbas](https://www.dashboardom.com)
+- [vaexio](https://github.com/vaexio)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
