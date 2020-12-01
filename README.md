@@ -53,7 +53,6 @@ A curated list of awesome Dash (plotly) resources
 - [mydcc](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
 - [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
 - [sd-range-slider](https://github.com/StratoDem/sd-range-slider) - Range Slider Dash component.
-- [sd-data-table](https://github.com/StratoDem/sd-data-table) - StratoDem wrapper for React DataTable.
 - [dj-plotly-dash](https://github.com/pikhovkin/dj-plotly-dash) - Plotly Dash fork for Django.
 - [dash-flexbox-grid](https://github.com/pikhovkin/dash-flexbox-grid) - Wrapper around react-flexbox-grid for Plotly Dash.
 - [dash-color-picker](https://github.com/vivekvs1/dash-color-picker) - Wrapper around react-color.
