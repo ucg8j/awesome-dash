@@ -49,7 +49,7 @@ A curated list of awesome Dash (plotly) resources
 - [Dash Cytoscape Component](https://dash.plot.ly/cytoscape) - Graph visualization component for creating easily customizable, high-performance, interactive, and web-based networks.
 - [Dash DataTable Component](https://dash.plot.ly/datatable) - Interactive table that supports rich styling, conditional formatting, editing, sorting, filtering, and more.
 - [Dash DAQ Components](https://dash.plot.ly/dash-daq) - Set of controls that make it simpler to integrate data acquisition and controls into your Dash applications.
-- [Dash ECharts Components](https://github.com/mergeforward/dash_echarts) - ECharts(V5) Components for Dash!
+- [Dash ECharts Components](https://github.com/mergeforward/dash_echarts) - ECharts(V5) Components for Dash.
 - [Dash HTML Components](https://github.com/plotly/dash-html-components)
 - [mydcc](https://github.com/jimmybow/mydcc) - Extension of Dash Core Components.
 - [sd-material-ui](https://github.com/StratoDem/sd-material-ui) - StratoDem Analytics implementations of material-ui components for Dash.
