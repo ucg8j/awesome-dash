@@ -59,6 +59,7 @@ A curated list of awesome Dash (plotly) resources
 - [dash-color-picker](https://github.com/vivekvs1/dash-color-picker) - Wrapper around react-color.
 - [dash-dual-listbox](https://github.com/vivekvs1/dash-dual-listbox) - Wrapper around react-duallist.
 - [dash-bootstrap-components](https://dash-bootstrap-components.opensource.asidatascience.com/) - Layout engine, default styles and high-level components based on Bootstrap.
+- [dash-uploader](https://github.com/np-8/dash-uploader) - Upload component for Dash. Supports large data files.
 
 ## App Examples
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
