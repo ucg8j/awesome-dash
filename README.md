@@ -60,7 +60,7 @@ A curated list of awesome Dash (plotly) resources
 - [dash-dual-listbox](https://github.com/vivekvs1/dash-dual-listbox) - Wrapper around react-duallist.
 - [dash-bootstrap-components](https://dash-bootstrap-components.opensource.asidatascience.com/) - Layout engine, default styles and high-level components based on Bootstrap.
 - [dash-uploader](https://github.com/np-8/dash-uploader) - Upload component for Dash. Supports large data files.
-- [Dash Mantine Components](https://github.com/snehilvj/dash-mantine-components) - Dash components based on Mantine React Components library.
+- [Dash Mantine Components](https://github.com/snehilvj/dash-mantine-components) - Collection of 40+ Dash components based on Mantine React Components library.
 
 ## App Examples
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
