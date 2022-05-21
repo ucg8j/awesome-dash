@@ -26,7 +26,7 @@ A curated list of awesome Dash (plotly) resources
 - [Plotly's tutorials - Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
 - [Plotly's tutorials - Part 3: Interactive Graphing](https://plot.ly/dash/interactive-graphing)
 - [Plotly's tutorials - Part 4: Callbacks With State](https://plot.ly/dash/state)
-- [Charming Data YouTube channel dedicated to teaching Dash](https://www.youtube.com/charmingdata)
+- [Charming Data YouTube channel](https://www.youtube.com/charmingdata) - A channel dedicated to teaching Dash and Plotly with over 25k subscribers.
 - [Interactive Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html) - How the MVC model pertains to Dash and a walkthrough of building an app.
 - [Using Plotly’s Dash to deliver public sector decision support dashboards](https://medium.com/a-r-g-o/using-plotlys-dash-to-deliver-public-sector-decision-support-dashboards-ac863fa829fb) - Buiding a complex dashboard step-by-step.
 - [OPS CodeDay: Dash Plotly Map + Graph](https://radumas.info/blog/tutorial/2017/08/10/codeday.html) - How to use Jupyter notebooks in tandom with Dash to create mapping viz.
