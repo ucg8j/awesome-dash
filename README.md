@@ -64,6 +64,7 @@ A curated list of awesome Dash (plotly) resources
 - [dash-uploader](https://github.com/np-8/dash-uploader) - Upload component for Dash. Supports large data files.
 - [Dash Mantine Components](https://github.com/snehilvj/dash-mantine-components) - Collection of 40+ Dash components based on Mantine React Components library.
 - [plotly-resampler](https://github.com/predict-idlab/plotly-resampler) - Wrapper for plotly figures that adds data downsampling (aggregating) functionality, enabling the visualization of large datasets.
+- [dash-vega-components](https://github.com/altair-viz/dash-vega-components) - Dash component for Vega-Altair, Vega-Lite, and Vega charts
 
 ## App Examples
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
