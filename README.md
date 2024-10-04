@@ -9,6 +9,7 @@ A curated list of awesome Dash (plotly) resources
 > Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python. It's particularly suited for anyone who works with data in Python.
 
 ## Contents
+- [Deployment](#deployment)
 - [Tutorials](#tutorials)
 - [Component Libraries](#component-libraries)
 - [App Examples](#app-examples)
@@ -19,6 +20,10 @@ A curated list of awesome Dash (plotly) resources
 - [Books](#books)
 - [Community](#community)
 - [Contributors](#contributors)
+
+## Deployment
+
+- [Ploomber Cloud](https://ploomber.io) - The community plan allows free deployments
 
 ## Tutorials
 - [Introducing Plotly Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503) - A high level introduction to Dash by Chris Parmer, the author of Dash. This essay was released as part of Dash's official launch (June 21, 2017).
@@ -42,6 +47,13 @@ A curated list of awesome Dash (plotly) resources
 - [An introduction to Dash DataTable](https://www.youtube.com/watch?v=dueejcyrYh8) - Official introduction video to the Dash DataTable components.
 
 ## Component Libraries
+
+- [Dash PDF](https://github.com/ploomber/dash-pdf) - Display inline PDFs
+- [Dash MUI](https://github.com/ploomber/dash-mui) - Material UI components
+- [Dash React Simple Maps](https://github.com/ploomber/dash-react-simple-maps) - Create interactive maps
+- [Dash Mosaic](https://github.com/ploomber/mosaic-python#dash-mosaic) - Display [Mosaic](https://github.com/uwdata/mosaic) plots
+- [Dash Tabler Icons](https://github.com/ploomber/dash-tabler-icons) - Beautiful icons for your Dash apps
+- [Dash React Syntax Highlighter](https://github.com/ploomber/dash-react-syntax-highlighter) - Display code snippets with a copy button
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
 - [Dash Bio Components](https://dash.plot.ly/dash-bio) - Suite of bioinformatics components that make it simpler to analyze and visualize bioinformatics data and interact with them in a Dash application.
 - [Dash Canvas Components](https://dash.plot.ly/canvas) - Module for image annotation and image processing using Dash.
@@ -118,6 +130,7 @@ A curated list of awesome Dash (plotly) resources
 - [vaexio](https://github.com/vaexio)
 - [Fanchao MENG](https://github.com/pingf)
 - [Snehil Vijay](https://github.com/snehilvj)
+- [Eduardo Blancas](https://github.com/edublancas)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
