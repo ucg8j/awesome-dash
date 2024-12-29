@@ -1,7 +1,6 @@
-# Awesome Dash  [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Dash [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cdn.rawgit.com/plotly/dash-docs/b1178b4e/images/dash-logo-stripe.svg" align="right" width="250">](https://plot.ly/products/dash/)
-
+[<img src="logo.webp" align="right" width="250">](https://plot.ly/products/dash/)
 
 A curated list of awesome Dash (plotly) resources
 
@@ -9,6 +8,7 @@ A curated list of awesome Dash (plotly) resources
 > Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python. It's particularly suited for anyone who works with data in Python.
 
 ## Contents
+
 - [Deployment](#deployment)
 - [Tutorials](#tutorials)
 - [Component Libraries](#component-libraries)
@@ -26,6 +26,7 @@ A curated list of awesome Dash (plotly) resources
 - [Ploomber Cloud](https://ploomber.io) - The community plan allows free deployments
 
 ## Tutorials
+
 - [Introducing Plotly Dash](https://medium.com/@plotlygraphs/introducing-dash-5ecf7191b503) - A high level introduction to Dash by Chris Parmer, the author of Dash. This essay was released as part of Dash's official launch (June 21, 2017).
 - [Plotly's tutorials - Part 1: App Layout](https://plot.ly/dash/getting-started)
 - [Plotly's tutorials - Part 2: Interactivity](https://plot.ly/dash/getting-started-part-2)
@@ -79,6 +80,7 @@ A curated list of awesome Dash (plotly) resources
 - [dash-vega-components](https://github.com/altair-viz/dash-vega-components) - Dash component for Vega-Altair, Vega-Lite, and Vega charts.
 
 ## App Examples
+
 - [Oil and Gas Explorer](https://plot.ly/dash/gallery/new-york-oil-and-gas/) - Explore oil and gas production over time and with linked visualisations. [Source Code.](https://github.com/plotly/dash-oil-and-gas-demo)
 - [Uber Rides](https://plot.ly/dash/gallery/uber-rides/) - Displays all of the Uber rides in New York City in 2014. Pandas on the backend filters a 0.5gig datafile. [Source Code.](https://github.com/plotly/dash-uber-rides-demo)
 - [Simple Stock Tickers](https://plot.ly/dash/gallery/stock-tickers/) - Queries data from Google Finance and displays the results as candlestick charts. [Source Code.](https://github.com/plotly/dash-stock-tickers-demo-app)
@@ -96,30 +98,37 @@ A curated list of awesome Dash (plotly) resources
 - [GutenSearch](https://gutensearch.com/) - Look inside the books of Project Gutenberg. [Source Code.](https://github.com/cordb/gutensearch)
 
 ## Idiomatic examples
+
 - [Dash recipes](https://github.com/plotly/dash-recipes) - A collection of scripts and examples created of the plotly team while answering questions from the greater Dash community.
 
 ## Galleries
+
 - [Plotly App Gallery](https://plot.ly/dash/gallery) - Plotly's collection of Dash applications.
 - [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - Collection of scripts and examples created while answering questions from the greater Dash community.
 - [Dash Data Dashboards and Apps](https://www.dashboardom.com/) - Collection of data dashboards with real life data, for various topics, as well as a few apps for online marketing built with Dash.
 
 ## Talks
+
 - [Dash: Data exploration web apps in pure Python](https://www.youtube.com/watch?v=eusglTlW4OA) - Chelsea Douglas, PyData DC 2018.
 - [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - Chris Parmer, creator of Dash (SciPy 2017).
 - [We're Launching Dash](https://www.youtube.com/watch?v=5BAthiN0htc&t=1s) - Chris Parmer, creator of Dash, speaking about the motivations behind Dash before it was launched (Plotcon NYC 2016).
 - [Plotly dash and data visualisation in Python, PyData, Berlin 2017](https://www.slideshare.net/vladimirkazantsev/plotly-dash-and-data-visualisation-in-python) - Volodymyr Kazantsev (slides only).
 
 ## Books
+
 - [Interactive Dashboards and Data Apps with Plotly and Dash](https://www.amazon.com/Interactive-Dashboards-Data-Apps-Plotly-ebook/dp/B08XMW45VY): Harness the power of a fully fledged frontend web framework in Python – no JavaScript required.
 
 ## Cheat sheets
+
 - [plotly.py Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
 
 ## Community
+
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/plotly-dash)
 
 ## Contributors
+
 - [Luke Singham](https://lukesingham.com/)
 - [Aly Sivji](https://alysivji.github.io/)
 - [Chris Parmer](https://github.com/chriddyp)
@@ -133,4 +142,5 @@ A curated list of awesome Dash (plotly) resources
 - [Eduardo Blancas](https://github.com/edublancas)
 
 ## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
